@@ -1,5 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Wilhelm Geney",
+	"description": "My first project with FreeCodeCamp",
+	"keywords": ["freecodecamp", "learn", "npm", "package", "json", "Node", "Express", "MongoDB", "Mongoose"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
