@@ -1,17 +1,27 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "Wilhelm Geney",
-	"description": "My first project with FreeCodeCamp",
-	"keywords": ["freecodecamp", "learn", "npm", "package", "json", "Node", "Express", "MongoDB", "Mongoose"],
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+  "name": "fcc-learn-npm-package-json",
+  "author": "Wilhelm Geney",
+  "description": "My first project with FreeCodeCamp",
+  "keywords": [
+    "freecodecamp",
+    "learn",
+    "npm",
+    "package",
+    "json",
+    "Node",
+    "Express",
+    "MongoDB",
+    "Mongoose"
+  ],
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  }
 }
